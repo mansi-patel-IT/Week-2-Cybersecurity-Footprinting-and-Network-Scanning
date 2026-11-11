@@ -360,7 +360,7 @@ Cybersecurity Intern | Aspiring IT Professional
 
 **Program:** Networkwalks Cybersecurity Internship
 
-**LinkedIn Profile:** [Insert your LinkedIn profile URL here]
+**LinkedIn Profile:** https://www.linkedin.com/in/mansi-patel-8a2715346/
 
 **GitHub Repository:** [Insert your GitHub repository URL here]
 
