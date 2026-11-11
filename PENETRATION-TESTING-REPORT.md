@@ -362,7 +362,7 @@ Cybersecurity Intern | Aspiring IT Professional
 
 **LinkedIn Profile:** https://www.linkedin.com/in/mansi-patel-8a2715346/
 
-**GitHub Repository:** [Insert your GitHub repository URL here]
+**GitHub Repository:** https://github.com/mansi-patel-IT/Week-2-Cybersecurity-Footprinting-and-Network-Scanning/tree/main
 
 ---
 
