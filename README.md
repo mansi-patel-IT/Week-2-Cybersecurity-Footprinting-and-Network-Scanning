@@ -180,7 +180,7 @@ These activities strengthened my understanding of reconnaissance, network visibi
 **Mansi Patel**  
 Cybersecurity Intern | Aspiring IT Professional
 
-🔗 **LinkedIn:** [Add your LinkedIn profile URL here]
+🔗 **LinkedIn:** https://www.linkedin.com/in/mansi-patel-8a2715346/
 
 📁 **Project:** Week 2 – Footprinting & Network Scanning  
 🎓 **Program:** Networkwalks Cybersecurity Internship
